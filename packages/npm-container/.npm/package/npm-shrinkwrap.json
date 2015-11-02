@@ -10,7 +10,7 @@
           "version": "1.0.1"
         },
         "caniuse-db": {
-          "version": "1.0.30000350"
+          "version": "1.0.30000354"
         },
         "postcss": {
           "version": "5.0.10",
@@ -173,7 +173,7 @@
                   "version": "1.0.1",
                   "dependencies": {
                     "caniuse-db": {
-                      "version": "1.0.30000350"
+                      "version": "1.0.30000354"
                     }
                   }
                 },
