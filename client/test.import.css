@@ -4,7 +4,7 @@ $col: 400px;
     transform: translateX(35%);
     width: $col;
     h1 {
-        color: red;
+        color: green;
         font-size: responsive;
     }
 }

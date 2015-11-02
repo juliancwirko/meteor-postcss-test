@@ -4,7 +4,11 @@
             "options": {},
             "dirName": "juliancwirko:postcss-plugins"
         }, {
-            "name": "autoprefixer",
+            "name": "postcss-nested",
+            "options": {},
+            "dirName": "juliancwirko:postcss-plugins"
+        }, {
+            "name": "postcss-simple-vars",
             "options": {},
             "dirName": "juliancwirko:postcss-plugins"
         }, {
@@ -12,11 +16,7 @@
             "options": {},
             "dirName": "juliancwirko:postcss-plugins"
         }, {
-            "name": "postcss-nested",
-            "options": {},
-            "dirName": "juliancwirko:postcss-plugins"
-        }, {
-            "name": "postcss-simple-vars",
+            "name": "autoprefixer",
             "options": {},
             "dirName": "juliancwirko:postcss-plugins"
         }

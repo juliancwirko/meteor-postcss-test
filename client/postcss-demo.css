@@ -1,0 +1,19 @@
+@import 'test.import.css';
+@import 'test/test2.import.css';
+
+$column: 700px;
+
+/* rucksack alias feature */
+@alias {
+  t: transform;
+  w: width;
+}
+
+.test2 {
+    t: translateX(10%);
+    w: $column;
+    h1 {
+        font-size: responsive;
+        color: red;
+    }
+}
