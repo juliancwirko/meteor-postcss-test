@@ -1,8 +1,11 @@
 {
   "dependencies": {
     "autoprefixer": {
-      "version": "6.0.3",
+      "version": "6.1.0",
       "dependencies": {
+        "postcss-value-parser": {
+          "version": "3.1.2"
+        },
         "num2fraction": {
           "version": "1.2.2"
         },
@@ -10,10 +13,10 @@
           "version": "1.0.1"
         },
         "caniuse-db": {
-          "version": "1.0.30000356"
+          "version": "1.0.30000360"
         },
         "postcss": {
-          "version": "5.0.10",
+          "version": "5.0.11",
           "dependencies": {
             "supports-color": {
               "version": "3.1.2",
@@ -34,11 +37,8 @@
       }
     },
     "postcss-import": {
-      "version": "7.1.0",
+      "version": "7.1.3",
       "dependencies": {
-        "clone": {
-          "version": "1.0.2"
-        },
         "glob": {
           "version": "5.0.15",
           "dependencies": {
@@ -86,7 +86,7 @@
           "version": "4.0.1"
         },
         "postcss": {
-          "version": "5.0.10",
+          "version": "5.0.11",
           "dependencies": {
             "supports-color": {
               "version": "3.1.2",
@@ -116,7 +116,7 @@
       "version": "1.0.0",
       "dependencies": {
         "postcss": {
-          "version": "5.0.10",
+          "version": "5.0.11",
           "dependencies": {
             "supports-color": {
               "version": "3.1.2",
@@ -137,10 +137,10 @@
       }
     },
     "postcss-simple-vars": {
-      "version": "1.0.1",
+      "version": "1.1.0",
       "dependencies": {
         "postcss": {
-          "version": "5.0.10",
+          "version": "5.0.11",
           "dependencies": {
             "supports-color": {
               "version": "3.1.2",
@@ -163,6 +163,23 @@
     "rucksack-css": {
       "version": "0.8.5",
       "dependencies": {
+        "autoprefixer": {
+          "version": "6.1.0",
+          "dependencies": {
+            "postcss-value-parser": {
+              "version": "3.1.2"
+            },
+            "num2fraction": {
+              "version": "1.2.2"
+            },
+            "browserslist": {
+              "version": "1.0.1"
+            },
+            "caniuse-db": {
+              "version": "1.0.30000360"
+            }
+          }
+        },
         "laggard": {
           "version": "0.1.0",
           "dependencies": {
@@ -173,7 +190,7 @@
                   "version": "1.0.1",
                   "dependencies": {
                     "caniuse-db": {
-                      "version": "1.0.30000356"
+                      "version": "1.0.30000360"
                     }
                   }
                 },
@@ -199,7 +216,7 @@
           "version": "1.2.0"
         },
         "postcss": {
-          "version": "5.0.10",
+          "version": "5.0.11",
           "dependencies": {
             "supports-color": {
               "version": "3.1.2",
