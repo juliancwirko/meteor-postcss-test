@@ -163,23 +163,6 @@
     "rucksack-css": {
       "version": "0.8.5",
       "dependencies": {
-        "autoprefixer": {
-          "version": "6.1.0",
-          "dependencies": {
-            "postcss-value-parser": {
-              "version": "3.1.2"
-            },
-            "num2fraction": {
-              "version": "1.2.2"
-            },
-            "browserslist": {
-              "version": "1.0.1"
-            },
-            "caniuse-db": {
-              "version": "1.0.30000360"
-            }
-          }
-        },
         "laggard": {
           "version": "0.1.0",
           "dependencies": {
