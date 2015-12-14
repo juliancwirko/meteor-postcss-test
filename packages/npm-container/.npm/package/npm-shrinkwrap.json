@@ -4,7 +4,7 @@
       "version": "6.1.2",
       "dependencies": {
         "postcss-value-parser": {
-          "version": "3.1.3"
+          "version": "3.2.3"
         },
         "num2fraction": {
           "version": "1.2.2"
@@ -13,7 +13,7 @@
           "version": "1.0.1"
         },
         "caniuse-db": {
-          "version": "1.0.30000375"
+          "version": "1.0.30000377"
         },
         "postcss": {
           "version": "5.0.12",
@@ -167,7 +167,7 @@
           "version": "6.1.2",
           "dependencies": {
             "postcss-value-parser": {
-              "version": "3.1.3"
+              "version": "3.2.3"
             },
             "num2fraction": {
               "version": "1.2.2"
@@ -176,7 +176,7 @@
               "version": "1.0.1"
             },
             "caniuse-db": {
-              "version": "1.0.30000375"
+              "version": "1.0.30000377"
             }
           }
         },
@@ -190,7 +190,7 @@
                   "version": "1.0.1",
                   "dependencies": {
                     "caniuse-db": {
-                      "version": "1.0.30000375"
+                      "version": "1.0.30000377"
                     }
                   }
                 },
