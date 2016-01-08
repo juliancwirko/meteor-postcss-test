@@ -1,4 +1,4 @@
-$col: 400px;
+@import 'vars.import.css';
 
 .test1 {
     transform: translateX(35%);
