@@ -1,0 +1,4 @@
+/* here we use Lost Grid PostCSS plugin */
+.lost-demo {
+    lost-column: 1/3;
+}

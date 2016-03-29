@@ -1,9 +1,0 @@
-{
-    "pluginsOptions": {
-        "postcss-import": {},
-        "postcss-nested": {},
-        "postcss-simple-vars": {},
-        "rucksack-css": {},
-        "autoprefixer": {"browsers": ["last 2 versions"]}
-    }
-}

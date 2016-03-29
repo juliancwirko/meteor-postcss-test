@@ -1,0 +1,39 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "devDependencies": {
+    "autoprefixer": "^6.3.3",
+    "lost": "^6.7.2",
+    "postcss-easy-import": "^1.0.1",
+    "postcss-nested": "^1.0.0",
+    "postcss-safe-parser": "^1.0.7",
+    "postcss-sassy-mixins": "^2.0.0",
+    "postcss-scss": "^0.1.7",
+    "postcss-simple-vars": "^1.2.0",
+    "rucksack-css": "^0.8.5"
+  },
+  "postcss": {
+    "plugins": {
+      "postcss-easy-import": {
+        "extensions": [
+          ".css",
+          ".scss",
+          ".import.css"
+        ]
+      },
+      "postcss-sassy-mixins": {},
+      "postcss-nested": {},
+      "postcss-simple-vars": {},
+      "rucksack-css": {},
+      "lost": {},
+      "autoprefixer": {
+        "browsers": [
+          "last 2 versions"
+        ]
+      }
+    },
+    "parser": "postcss-safe-parser"
+  }
+}

@@ -1,4 +1,4 @@
-@import 'vars.import.css';
+@import 'vars';
 
 .test1 {
     transform: translateX(35%);

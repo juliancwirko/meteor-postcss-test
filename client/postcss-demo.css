@@ -1,5 +1,9 @@
-@import 'test.import.css';
-@import 'test/test2.import.css';
+/* remember that you need to use css comments style and not scss or others here. You can always use postcss-scss parser to be able to use '//' style comments */
+/* you don't need to use .import.css extension here because of the configuration in the package.json file */
+@import 'test';
+@import 'test/test2';
+/* you don't need to name the file with the .import.css extension because it is in the 'imports' folder */
+@import 'imports/test-from-imports-folder';
 
 $column: 700px;
 
