@@ -4,15 +4,15 @@
   "description": "",
   "author": "",
   "devDependencies": {
-    "autoprefixer": "^6.3.3",
-    "lost": "^6.7.2",
+    "autoprefixer": "^6.5.1",
+    "lost": "^7.1.0",
     "postcss-easy-import": "^1.0.1",
     "postcss-nested": "^1.0.0",
-    "postcss-safe-parser": "^1.0.7",
+    "postcss-safe-parser": "^2.0.0",
     "postcss-sassy-mixins": "^2.0.0",
-    "postcss-scss": "^0.1.7",
-    "postcss-simple-vars": "^1.2.0",
-    "rucksack-css": "^0.8.5"
+    "postcss-scss": "^0.3.1",
+    "postcss-simple-vars": "^3.0.0",
+    "rucksack-css": "^0.8.6"
   },
   "postcss": {
     "plugins": {
