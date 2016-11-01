@@ -23,7 +23,7 @@ stylus@2.513.6
 
 
 
-standard-minifier-js@1.2.1
-juliancwirko:postcss@1.0.0-rc.2
+standard-minifier-js
+juliancwirko:postcss
 juliancwirko:s-alert
 shell-server
